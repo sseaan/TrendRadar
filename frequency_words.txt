@@ -10,6 +10,8 @@ HarmonyOS
 
 米哈游
 绝区零
+!星穹铁道
+!原神
 
 微软
 Microsoft
@@ -20,16 +22,12 @@ NVIDIA
 
 AMD
 
-谷歌
-google
 gemini
-deepmind
 
 chatgpt
 openai
 
 claude
-Anthropic
 
 ai
 !gai
